@@ -1,0 +1,36 @@
+h1 {
+    color:navy;
+}
+
+h2{
+    color:white;
+}
+
+h5, h3 {
+    color:#378B29;
+}
+
+*{
+    background-image: linear-gradient(to right, #5899E2, #b3c4d8);
+
+}
+
+.main{
+    color:rgb(201, 217, 202);
+}
+.sub{
+    background-image: repeating-linear-gradient(#71a368,#1A512E);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.sub li{
+    background-image: repeating-linear-gradient(#71a368,#1A512E);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+s, strong, em{
+    background-image: repeating-linear-gradient(#71a368,#1A512E);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
